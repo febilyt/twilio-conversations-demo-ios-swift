@@ -78,7 +78,7 @@
       <EnvironmentVariables>
          <EnvironmentVariable
             key = "ACCESS_TOKEN_SERVICE_URL"
-            value = "${ACCESS_TOKEN_SERVICE_URL}"
+            value = "https://phlam-3876-dev.twil.io/token-service"
             isEnabled = "YES">
          </EnvironmentVariable>
       </EnvironmentVariables>

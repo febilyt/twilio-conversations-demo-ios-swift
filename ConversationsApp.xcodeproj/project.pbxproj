@@ -55,7 +55,6 @@
 		65CDD32327C053F7002C937B /* ReactionsDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CDD32227C053F7002C937B /* ReactionsDetailsView.swift */; };
 		65CDD32627C575A4002C937B /* ReactionsPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CDD32527C575A4002C937B /* ReactionsPanel.swift */; };
 		65E894E027AB197B00B427EF /* AddParticipantsButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E894DF27AB197B00B427EF /* AddParticipantsButton.swift */; };
-		65E894E227AB1A3900B427EF /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 65E894E127AB1A3900B427EF /* GoogleService-Info.plist */; };
 		65EF853427DFF55400F0C9D1 /* PullToRefresh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EF853327DFF55400F0C9D1 /* PullToRefresh.swift */; };
 		860072E1263C4A82001D7F4E /* TwilioConversationsClient in Frameworks */ = {isa = PBXBuildFile; productRef = 860072E0263C4A82001D7F4E /* TwilioConversationsClient */; };
 		8616F098260B75EC00EAABC0 /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = 8616F097260B75EC00EAABC0 /* FirebaseCrashlytics */; };
@@ -195,7 +194,6 @@
 		65CDD32227C053F7002C937B /* ReactionsDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReactionsDetailsView.swift; sourceTree = "<group>"; };
 		65CDD32527C575A4002C937B /* ReactionsPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReactionsPanel.swift; sourceTree = "<group>"; };
 		65E894DF27AB197B00B427EF /* AddParticipantsButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddParticipantsButton.swift; sourceTree = "<group>"; };
-		65E894E127AB1A3900B427EF /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		65EF853327DFF55400F0C9D1 /* PullToRefresh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PullToRefresh.swift; sourceTree = "<group>"; };
 		8628750926A7F799006DC561 /* ConversationsApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ConversationsApp.entitlements; sourceTree = "<group>"; };
 		86C9EB522653C05B007C9984 /* TokenWrapperImpl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenWrapperImpl.swift; sourceTree = "<group>"; };
@@ -633,7 +631,6 @@
 				D473F31E229D715E008709FB /* Info.plist */,
 				D4B0A07A22B7E042007342AF /* Localizable.strings */,
 				D4EA524C242BDC9900C1173A /* Localizable.stringsdict */,
-				65E894E127AB1A3900B427EF /* GoogleService-Info.plist */,
 				D4E8B0E922CBA81C009AF419 /* Settings.bundle */,
 				921E4A24273177EE00628585 /* ConversationsApp.swift */,
 			);
@@ -821,7 +818,6 @@
 				D4EA524D242BDC9900C1173A /* Localizable.stringsdict in Resources */,
 				92A2F040270F32D900330704 /* testMessages.json in Resources */,
 				921E4A1E27308DE300628585 /* testConversations.json in Resources */,
-				65E894E227AB1A3900B427EF /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
